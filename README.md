@@ -1,4 +1,7 @@
  # Vasiliy Polyakov
-- Software developer (C++/Qt, Scala, Python) with expertise in CI/CD and DevOps.
-- Linux administrator and enthusiast at [PermLUG](https://permlug.org/).
+- Software engineer (C++/Qt, Scala, Python) with expertise in CI/CD and DevOps.
+- FOSS and Linux enthusiast in [PermLUG] ([@permlug]).
 - Machine learning and robotics enthusiast.
+
+[PermLUG]: https://permlug.org/ "Perm Linux Users Group"
+[@permlug]: https://github.com/permlug "PermLUG at GitHub"
