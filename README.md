@@ -1,6 +1,7 @@
 # Vasiliy Polyakov
 - Software engineer (C++/Qt, Scala, Python) with expertise in CI/CD and DevOps.
-- FOSS and Linux enthusiast in [PermLUG] ([@permlug]).
+- Passionate about parallel and high performance computing.
+- FOSS and GNU/Linux enthusiast in [PermLUG] ([@permlug]).
 - Machine learning and robotics enthusiast.
 
 [PermLUG]: https://permlug.org/ "Perm Linux Users Group"
@@ -8,7 +9,7 @@
 
 ## Skills
 - C++ (STL, Boost, Qt, CMake)
-- Python 2 & 3 (Django, Flask, aiohttp)
+- Python (Django, Flask, aiohttp)
 - Scala (Cats, Akka, Lagom)
 - DB (MySQL, PostgreSQL, Cassandra)
 - Containers, DevOps & CI/CD:
