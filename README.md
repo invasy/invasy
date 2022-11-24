@@ -11,15 +11,15 @@
 - C++ (STL, Boost, Qt, CMake)
 - Python (Django, Flask, aiohttp)
 - Scala (Cats, Akka, Lagom)
-- DB (MySQL, PostgreSQL, Cassandra)
-- Containers, DevOps & CI/CD:
+- DB (MySQL, PostgreSQL, Oracle, Cassandra)
+- Containers, DevOps, CI/CD:
   - Docker, k8s
-  - GitLab CI, Jenkins
+  - GitHub Actions, GitLab CI, Jenkins
   - Ansible, Puppet, Terraform
   - Elastic Stack, Grafana Stack
 - Misc:
   - Git, Mercurial
-  - GNU/Linux Administration, Bash
+  - GNU/Linux Administration, Bash, AWK, Perl
   - Atlassian Stack (Jira, Confluence, Bitbucket, Trello)
   - Team Management
 
