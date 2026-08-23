@@ -11,16 +11,16 @@
 
 ## Skills
 
-- C++ (STL, Boost, Qt, CMake)
-- Python (Django, Flask, aiohttp)
-- Scala (Cats, Akka, Lagom)
-- DB (MySQL, PostgreSQL, Oracle, Cassandra)
-- CI/CD & DevOps:
+- **C++** (STL, Boost, Qt, CMake)
+- **Python** (Django, Flask, aiohttp)
+- **Scala** (Cats, Akka, Lagom)
+- **DB** (MySQL, PostgreSQL, Oracle, Cassandra)
+- **CI/CD & DevOps**:
   - Docker, k8s & Helm
   - Ansible, Puppet, Terraform
   - GitHub Actions, GitLab CI, Jenkins
   - Elastic Stack, Grafana Stack
-- Misc:
+- **Misc**:
   - Git, Mercurial
   - GNU/Linux Administration, Bash, AWK, Perl
   - Atlassian Stack (Jira, Confluence, Bitbucket, Trello)
